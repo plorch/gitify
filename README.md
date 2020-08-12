@@ -17,7 +17,7 @@ I am particularly interested in using Issues to see what they can do.
 
 ## Steps for starting a new gitified project
 
-### 1.  Starting with GitHub repo
+### Alternative 1:  Starting with GitHub repo
 
 1. Create new repo on GitHub with README.md or .Rmd for R projects
 
@@ -26,3 +26,7 @@ I am particularly interested in using Issues to see what they can do.
 3. In git bash window navigate to where you want repo and type 
 
 * `git clone https://pathcopied_from_GitHub/reponame`
+
+### Alternative 2:  Stating with an existing R project
+
+
