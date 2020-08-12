@@ -14,3 +14,15 @@ Using these sources for making this a more regular part of my workflow.
 ## Testing issues for project management
       
 I am particularly interested in using Issues to see what they can do.
+
+## Steps for starting a new gitified project
+
+### 1.  Starting with GitHub repo
+
+1. Create new repo on GitHub with README.md or .Rmd for R projects
+
+2. Copy https path
+
+3. In git bash window navigate to where you want repo and type 
+
+* `git clone https://pathcopied_from_GitHub/reponame`
