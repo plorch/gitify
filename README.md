@@ -31,4 +31,6 @@ I am particularly interested in using Issues to see what they can do.
 
 1. Make sure you have enabled git for R studio
 
+2. Next step?
+
 
