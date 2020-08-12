@@ -29,4 +29,6 @@ I am particularly interested in using Issues to see what they can do.
 
 ### Alternative 2:  Stating with an existing R project
 
+1. Make sure you have enabled git for R studio
+
 
