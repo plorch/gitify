@@ -59,7 +59,7 @@ I am particularly interested in using Issues to see what they can do.
 
 1. Make sure you have enabled git for R studio
 
-2. Follow instructions for `usethis` in Happy Git instructions
+2. Follow instructions for `usethis` in Happy Git with R instructions
 
 
 ## Push changes back to GitHub
