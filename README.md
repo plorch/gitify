@@ -62,6 +62,7 @@ I am particularly interested in using Issues to see what they can do.
 2. Follow instructions for `usethis` in Happy Git with R instructions
 
 ** This has failed multiple times when I try adding existing dirs with `usethis` **
+
 ** Adding a project to an existing directory does not offer the make git repo checkbox **
 
 
